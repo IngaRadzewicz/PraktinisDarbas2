@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">praktinis darbas 2</string>
+    <string name="message_not_implemented">Not Implemented!</string>
+    <string name="empty_input_warning" translatable="false">Please enter some text!</string>
+    <string name="option_chars" translatable="false">Chars</string>
+    <string name="option_words" translatable="false">Words</string>
+
+    <string-array name="counting_options">
+        <item>@string/option_chars</item>
+        <item>@string/option_words</item>
+    </string-array>
+</resources>

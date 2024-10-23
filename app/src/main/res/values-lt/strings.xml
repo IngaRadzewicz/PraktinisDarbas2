@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">praktinis darbas 2</string>
+    <string name="message_not_implemented">Neveikia!</string>
+    <string-array name="counting_options">
+        <item>Ženklai</item>
+        <item>Žodžiai</item>
+    </string-array>
+</resources>
